@@ -29,7 +29,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: pt-br
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
