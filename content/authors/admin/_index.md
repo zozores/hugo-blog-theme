@@ -48,9 +48,15 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://ciberlandia.pt/@zozo
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zozores
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tozores
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/zozorest
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
