@@ -68,7 +68,7 @@ features:
     enable: false
   repository:
     url: 'https://github.com/zozores/hugo-blog-theme'
-    content_dir: content
+    content_dir: content/pt
     branch: main
   avatar:
     gravatar: false
