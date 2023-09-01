@@ -3,8 +3,8 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-pt-br:
-  languageCode: pt-BR
+pt:
+  languageCode: pt
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/pt
 
