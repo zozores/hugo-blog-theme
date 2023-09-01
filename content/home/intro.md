@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
-
-Check out my [CV](/about/) and blog posts below 🌈
+Seja bem-vindo! Eu sou o **Zozô**
+ 
+Site Reliability Engineer @ Itaú Unibanco
