@@ -17,7 +17,3 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
-
-Seja bem-vindo! Eu sou o **Zozô**
- 
-Site Reliability Engineer @ Itaú Unibanco

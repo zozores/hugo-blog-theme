@@ -68,8 +68,12 @@ social:
 #email: ""
 ---
 
-Analista de TI com mais de 15 anos de experiência profissional comprovada em diversas indústrias.
+Sou Analista de TI com mais de 15 anos de experiência profissional comprovada em diversas indústrias.
+
 Proficiente em Linux, Cloud, Containêres, SRE e DevOps.
+
 Especialista em Observabilidade, Testes de Resiliência e em Automações de Infraestrutura.
+
 Familiarizado com o desenvolvimento de aplicações em Java e Python.
+
 Entusiasta Open Source.
