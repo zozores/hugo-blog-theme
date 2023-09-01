@@ -4,14 +4,14 @@
 
 # Default language
 pt:
-  languageCode: pt
+  languageCode: pt-BR
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/pt
+  contentDir: content
 
 # Uncomment the lines below to configure your website in a second language.
-#en:
-#  languageCode: en-US
-#  contentDir: content/en
+en:
+  languageCode: en-US
+  contentDir: content/en
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
