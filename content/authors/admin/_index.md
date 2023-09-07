@@ -47,7 +47,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: mastodon
     icon_pack: fab
-    link: https://ciberlandia.pt/@zozo
+    link: https://bertha.social/@zozo
   - icon: github
     icon_pack: fab
     link: https://github.com/zozores
