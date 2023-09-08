@@ -10,7 +10,7 @@ role: Site Reliability Engineer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇧🇷
 
 # Organizations/Affiliations
 organizations:

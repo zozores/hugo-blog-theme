@@ -17,3 +17,5 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
+
+🇬🇧 [English Version](en/) 🇬🇧
