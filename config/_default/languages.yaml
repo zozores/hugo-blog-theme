@@ -9,9 +9,12 @@ pt:
   contentDir: content
   menu:
     main:
+      - name: Home
+        url: '#home'
+        weight: 1
       - name: Sobre
         url: '#about'
-        weight: 1
+        weight: 2
 
 # Uncomment the lines below to configure your website in a second language.
 en:
@@ -22,6 +25,9 @@ en:
 #    description: Site description in Chinese...
   menu:
     main:
+      - name: Home
+        url: '#home'
+        weight: 1
       - name: About
         url: '#about'
-        weight: 1
+        weight: 2
