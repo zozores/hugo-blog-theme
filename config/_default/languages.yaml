@@ -10,10 +10,10 @@ pt:
   menu:
     main:
       - name: Home
-        url: '#home'
+        url: '/'
         weight: 1
       - name: Sobre
-        url: '#about'
+        url: '/about'
         weight: 2
 
 # Uncomment the lines below to configure your website in a second language.
@@ -26,8 +26,8 @@ en:
   menu:
     main:
       - name: Home
-        url: '#home'
+        url: '/'
         weight: 1
       - name: About
-        url: '#about'
+        url: '/about'
         weight: 2
