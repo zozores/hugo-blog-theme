@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Falo sobre Linux, Cloud, SRE, DevOps e outras coisas mais
+bio: I talk about Linux, Cloud, SRE, DevOps, and other things as well
 
 #interests:
 #- Artificial Intelligence
