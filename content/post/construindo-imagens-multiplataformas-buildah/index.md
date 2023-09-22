@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Logo do Buildah'
+  caption: 'Logotipo do Buildah (um cachorro usando um chapéu de construtor), um ícone representando o padrão OCI (Open Container Initiative) e um ícone representando uma imagem de contêiner construída.'
   focal_point: ''
   placement: 2
   preview_only: false

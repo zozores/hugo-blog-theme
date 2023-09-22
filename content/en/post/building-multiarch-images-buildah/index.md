@@ -1,9 +1,9 @@
 ---
-title: Construindo imagens multi-plataforma com o Buildah
-subtitle: Veja como construir imagens de containers para outros plataformas além de amd64
+title: Building multiarch images with Buildah
+subtitle: See how to build container images for platforms other than amd64
 
 # Summary for listings and search engines
-summary: Com o crescimento e a popularização de outras plataformas além da amd64, principalmente a plataforma ARM, passa a ser uma preocupação de quem mantém imagens de containers, a construção destas voltados para estas plataformas.
+summary: With the growth and popularization of other platforms beyond amd64, especially the ARM platform, it becomes a concern for those maintaining container images, the construction of these tailored for these platforms.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Logo do Buildah'
+  caption: 'Logo from Buildah (a dog wearing a constructor hat), an icon representing the OCI (Open Container Initiative) standard and an icon representing a built container image'
   focal_point: ''
   placement: 2
   preview_only: false
